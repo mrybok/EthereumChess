@@ -1,1 +1,1 @@
-# EthereumChess
+# ♟️ EthereumChess
